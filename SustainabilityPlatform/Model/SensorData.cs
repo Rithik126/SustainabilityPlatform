@@ -14,6 +14,5 @@
 
         public string Unit { get; set; }
 
-        public Appliance Appliance { get; set; }
     }
 }

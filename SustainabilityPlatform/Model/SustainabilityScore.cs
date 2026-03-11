@@ -16,6 +16,5 @@
 
         public double OverallScore { get; set; }
 
-        public Home Home { get; set; }
     }
 }

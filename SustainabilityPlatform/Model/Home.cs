@@ -12,11 +12,7 @@
 
         public DateTime CreatedAt { get; set; }
 
-        public User User { get; set; }
-
-        public ICollection<Appliance> Appliances { get; set; }
-
-        public ICollection<SustainabilityScore> SustainabilityScores { get; set; }
+      
 
     }
 }

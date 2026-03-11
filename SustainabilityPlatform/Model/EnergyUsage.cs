@@ -14,6 +14,5 @@
 
         public double KwhConsumed { get; set; }
 
-        public Appliance Appliance { get; set; }
     }
 }

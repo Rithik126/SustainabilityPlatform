@@ -16,8 +16,6 @@
 
         public DateTime CreatedAt { get; set; }
 
-        public Appliance Appliance { get; set; }
-
-        public ICollection<Notification> Notifications { get; set; }
+        
     }
 }

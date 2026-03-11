@@ -14,6 +14,5 @@
 
         public double LitersConsumed { get; set; }
 
-        public Appliance Appliance { get; set; }
     }
 }

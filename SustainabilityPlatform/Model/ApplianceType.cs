@@ -14,6 +14,5 @@
 
         public double AvgWaterRating { get; set; }
 
-        public ICollection<Appliance> Appliances { get; set; }
     }
 }

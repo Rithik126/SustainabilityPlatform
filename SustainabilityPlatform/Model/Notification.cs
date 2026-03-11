@@ -11,8 +11,6 @@
 
         public DateTime? ReadAt { get; set; }
 
-        public Alert Alert { get; set; }
-
-        public User User { get; set; }
+     
     }
 }
